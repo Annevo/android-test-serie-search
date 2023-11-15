@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Serie Search</string>
+    <string name="search">Search</string>
+    <string name="failed_to_fetch_series">Failed to fetch series</string>
+    <string name="ok">OK</string>
+</resources>
